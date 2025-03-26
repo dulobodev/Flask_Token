@@ -1,6 +1,6 @@
 # API REST com Flask e Autenticação JWT
 
-Este projeto implementa uma API REST básica utilizando **Flask** com operações **CRUD** (Create, Read, Update, Delete) e **autenticação via JWT** (JSON Web Token). Ele também inclui um banco de dados **SQLite** e um ambiente de desenvolvimento configurado via arquivo `.env`.
+Este projeto implementa uma API REST básica utilizando **Flask** com operações **CRUD** (Create, Read, Update, Delete) e **autenticação via JWT** (JSON Web Token). O foco dessa API é mostrar um pouco de segurança, contendo criptografia da senha, um banco um pouco mais seguro, mas em geral, funcionalidades simples.
 
 ## Funcionalidades ⚙️
 
